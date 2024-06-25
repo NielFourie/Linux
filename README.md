@@ -1,8 +1,8 @@
 # Linux
-Setup files for Linux VMs 
+## Setup files for Linux VMs 
 
 - TMUX config
 - Alias config
 
-# Validation scripts
+## Validation scripts
 - Testing alias targets
