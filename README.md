@@ -3,6 +3,9 @@
 
 - TMUX config
 - Alias config
-
+  
+## TODO
 ## Validation scripts
 - Testing alias targets
+- TMUX setup script
+- Tool download scripts
